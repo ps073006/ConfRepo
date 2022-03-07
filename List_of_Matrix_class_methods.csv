@@ -1,0 +1,25 @@
+Method name,Method Description
+Add,Adds given a value  to every element of  a matrix
+Determinant,Calculates the determinant of a  matrix
+Equals,"Returns true when matrix is equal to  a given 
+matrix with a given precision                        "
+Insert,Inserts a given matrix into another  matrix
+Multiply,Scales this matrix by a given value
+Power,Powers a matrix of a given exponent n
+Rank,Calculates the rank of a matrix
+removeLastColumn,Removes last column from matrix
+removeLastRow,Removes last row from matrix
+Rotate,Rotates a matrix by 90 degrees to   the right
+Select,Returns a new matrix with the  selected rows and columns
+setRow,Sets all elements of the specified row  of a matrix to given value
+Shuffle,Shuffles a matrix
+sliceTopLeft,Retrieves the specified sub-matrix of a  matrix
+Subtract,Subtracts a given value  from every element of a matrix
+transformColumn,"Builds a new matrix by applying given  function to each element of
+ specified   column in a matrix "
+transformRow,"Builds a new matrix by applying given  function to each element of
+ specified  row in a matrix    "
+Transpose,Transposes a matrix
+updateColumn,"Updates all elements of the specified  column in a matrix by 
+applying given  function            "
+Zero,Creates a zero Matrix of the given shape:  rows x columns
