@@ -1,1 +1,1 @@
-# ICTSSRepo
+# Repository of files for conferences

@@ -1,0 +1,8 @@
+﻿Pairwise Strategies,MethodsCollection2,MethodsFromMahout,MethodsFromApacheMath,MethodsFromColt
+Operator Based vs Total Set,0.0000619,0.0242,0.178,0.0463
+Operator Based vs Random 10%,0.0000062,0.00009179,0.00578,0.00586
+Operator Based vs Random 20%,0.00000842,0.0189,0.00607,0.00857
+Operator Based vs Random 30%,0.00000584,0.0026,0.00895,0.00639
+Operator Based vs Random 40%,0.0000176,0.0036,0.0167,0.00933
+Operator Based vs Random 50%,0.0000229,0.0248,0.0332,0.0173
+Operator Based vs Random 60%,0.0000432,0.0301,0.0476,0.0212

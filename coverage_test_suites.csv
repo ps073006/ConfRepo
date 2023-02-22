@@ -1,0 +1,4 @@
+﻿Pairwise Strategies,MethodsCollection2,MethodsFromMahout,MethodsFromApacheMath,MethodsFromColt,Matrix
+Line vs Branch,0.161,0.697,0.217,0.796,0.0456
+WM vs Branch,0.01633,0.0051,0.0124,0.457,0.003
+WM vs Line,0.0203,0.0257,0.0169,0.253,0.0295
